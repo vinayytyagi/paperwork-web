@@ -1,0 +1,15 @@
+{
+  "name": "paperwork-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --port 3011",
+    "build": "next build",
+    "start": "next start --port 3011"
+  },
+  "dependencies": {
+    "next": "15.5.27",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
